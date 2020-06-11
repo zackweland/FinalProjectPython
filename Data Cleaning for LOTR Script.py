@@ -1,24 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[23]:
-
-
-#!/usr/bin/env python
-# coding: utf-8
-
 # Web scraping, pickle imports
 import requests
 from bs4 import BeautifulSoup
@@ -96,16 +78,3 @@ print(R1)
 data_clean = pd.DataFrame(lotr_script.script.apply(R1))
 # Check to see what it looks like:
 data_clean.script.loc[0]
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
