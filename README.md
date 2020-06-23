@@ -12,4 +12,4 @@ Individual character analysis: To individually analyze each character, I picked 
 
 Instructions on how to use the text: While I separated each individual step, I would run the code through the document I provide called "combined code", as this will reduce the hassle of trying to combine the different code files. I have included the different files in order to show the different steps I took throughout the process. Additionally, I will provide both .py and .ipynb files, depending on whether you use Spyder or Jupyter Notebook. 
 
-Analysis and conclusions: I will provide these in a word document at the end of the files! These will include different graphs I created in order to better represent the analysis I did throughout the project.
+Analysis and conclusions: I will provide these in a word document called "Analysis and Conclusion" at the end of the repository! These will include different graphs I created in order to better represent the analysis I did throughout the project.
