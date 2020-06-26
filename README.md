@@ -8,7 +8,7 @@ Sentiment analysis: I took the document term matrix I pickled in the data cleani
 
 Topic analysis: I took the genism module and decided to run Latent Dirichlet allocation (LDA), a type of topic modeling associated with genism. I imported my document term matrix, created both a corpus and dictionary of terms, and then ran my analysis. Since I was only looking through one script, I decided that only one topic would be necessary to analyze. 
 
-Individual character analysis: I picked out five characters (Frodo, Gandalf, Sam, Aragorn, and Boromir), copy and pasted their dialogues into a text document and did individual text analysis. I followed the same steps used in the data cleaning and sentiment analysis of the entire script. Additionally, I will only include the entire block of code for the individual character analysis and I will upload each individual text file for use when running the analyses. 
+Individual character analysis: I was not able to do this  unfortunately, but I have included an explanation as to why in my analysis and conclusion document.
 
 Instructions on how to use the text: While I separated each individual step, I would run the code through the document I provide called "combined code", as this will reduce the hassle of trying to combine the different code files. I have included the different files in order to show the different steps I took throughout the process. Additionally, I will provide both .py and .ipynb files, depending on whether you use Spyder or Jupyter Notebook. As a note, when looking at the beginning combined code file, change where you're saving the script files to your own computer.
 
