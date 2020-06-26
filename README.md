@@ -6,7 +6,7 @@ Data cleaning: I scraped my script for Lord of the Rings: The Fellowship of the 
 
 Sentiment analysis: I took the document term matrix I pickled in the data cleaning step and imported it into a new file. I then used TextBlob to do the analysis, imported it from conda install -c conda-forge, and created used lambda to create functions that measured both the subjectivity and polarity of the script. After finding my results, I then put it into a graph for analysis.
 
-Topic analysis: I took the genism module and decided to run Latent Dirichlet allocation (LDA), a type of topic modeling associated with genism. I imported my document term matrix, created both a corpus and dictionary of terms, and then ran my analysis. Since I was only lookiung through one script, I decided that only one topic would be necessary to analyze. 
+Topic analysis: I took the genism module and decided to run Latent Dirichlet allocation (LDA), a type of topic modeling associated with genism. I imported my document term matrix, created both a corpus and dictionary of terms, and then ran my analysis. Since I was only looking through one script, I decided that only one topic would be necessary to analyze. 
 
 Individual character analysis: I picked out five characters (Frodo, Gandalf, Sam, Aragorn, and Boromir), copy and pasted their dialogues into a text document and did individual text analysis. I followed the same steps used in the data cleaning and sentiment analysis of the entire script. Additionally, I will only include the entire block of code for the individual character analysis and I will upload each individual text file for use when running the analyses. 
 
